@@ -41,5 +41,5 @@ document.getElementById("reset").addEventListener("click",()=>{
 })
 document.getElementById('open').addEventListener('click', () => {
 
-    alert("Важное событие: \nЯ хз. \nПредложение о встрече: \nКак насчет того, чтобы  \nПлан: \nПредлагаю  \nПродолжение плана: \nПосле ужина мы можем .")
+    alert("УРААА Я РАД!! \nКак насчет того, чтобы  \nПлан: Встретиться в Есентай парке и устроить пикник!! \nПредлагаю   \nССЫЛКА НА ВИШЛИСТ ОГО: https://drive.google.com/file/d/14wDr6KtYF9z2CoD6SPF6vqqOqzagWRWq/view?usp=sharing.")
 })
